@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-bb/static/css/main.69083a80.css",
+    "main.js": "/app-bb/static/js/main.3004f25d.js",
+    "static/media/bb.png": "/app-bb/static/media/bb.b4de6e8ac65c21c21d5f.png",
+    "static/media/Walter.png": "/app-bb/static/media/Walter.29aaf6573e05558f8133.png",
+    "index.html": "/app-bb/index.html",
+    "main.69083a80.css.map": "/app-bb/static/css/main.69083a80.css.map",
+    "main.3004f25d.js.map": "/app-bb/static/js/main.3004f25d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69083a80.css",
+    "static/js/main.3004f25d.js"
+  ]
+}
